@@ -2,3 +2,5 @@
 
 <h2>Buy ME A Coffee  Web3
 </h2>
+
+npm install for the dependencies
