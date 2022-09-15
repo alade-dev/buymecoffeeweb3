@@ -3,4 +3,6 @@
 <h2>Buy ME A Coffee  Web3
 </h2>
 
+it is going to be a long trip
+
 npm install for the dependencies
